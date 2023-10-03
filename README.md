@@ -30,11 +30,20 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-a79314207/)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<table style="background-color: #f0f0f0;">
+  <tr>
+    <td>
+      <a href="https://github.com/rafael-dev2021">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dev2021&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rafael-dev2021">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-dev2021&layout=compact&langs_count=8&card_width=320theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 

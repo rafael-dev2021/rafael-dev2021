@@ -31,24 +31,19 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dev2021&hide_progress=true)
 
-<div>
-  <row>
-    <div class="col-md-6">
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/rafael-dev2021">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dev2021" />
       </a>
-    </div>
-       <div class="col-md-6">
+    </td>
+    <td>
       <a href="https://github.com/rafael-dev2021">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dev2021" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-dev2021&layout=compact&langs_count=8&card_width=320" />
       </a>
-    </div>
-  </row>
-</div>
+    </td>
+  </tr>
+</table>
 
-
-
-<a href="https://github.com/rafael-dev2021">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-dev2021&layout=compact&langs_count=8&card_width=320" />
-</a>
 

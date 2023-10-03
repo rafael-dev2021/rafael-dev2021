@@ -31,10 +31,10 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dev2021&hide_progress=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rafael-dev2021">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dev2021" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/rafael-dev2021">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-dev2021&layout=compact&langs_count=8&card_width=320" />
 </a>
 

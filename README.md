@@ -1,8 +1,25 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RafaelSilva98k/RafaelSilva98k/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From AR game development with Unity to Machine Learning using R, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+👋 Olá, sou [RAFAEL]!
+
+I'm a back-end developer with a passion for programming and creating robust systems. My main specialization is in C# and ASP.NET Core, and I'm always looking for ways to improve my web development skills.
+
+🚀Experience:
+- Web development with a focus on ASP.NET Core.
+- Creating efficient and scalable RESTful APIs.
+- Optimizing SQL queries to improve application performance.
+- Collaborating in agile teams to create high-quality software solutions.
+
+💼 I'm currently working as a freelancer back-end developer, where I have the opportunity to apply my skills in C# and ASP.NET Core to create solid systems that meet clients' needs.
+
+🌱 I'm always learning and keeping up to date with the latest trends in web development in order to offer the best solutions for the projects I work on.
+
+📫 Shall we connect?
+If you're also passionate about web development, C# or ASP.NET Core, I'd love to exchange ideas and learn from you. Let's connect here on GitHub and expand our horizons together!
+
+#DeveloperBackEnd #CSharp #ASPNETCore #developerWeb
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />

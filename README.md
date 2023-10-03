@@ -28,12 +28,12 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9A-6w3A_GRs5rp8ct_1OlA)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-a79314207/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats]()
 <table>
   <tr>
     <td>
       <a href="https://github.com/rafael-dev2021">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dev2021&theme=dracula" />
+        (https://github-readme-stats.vercel.app/api?username=rafael-dev2021&show_icons=true&theme=dracula")
       </a>
     </td>
     <td>

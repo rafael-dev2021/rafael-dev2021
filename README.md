@@ -18,4 +18,7 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 
 #DeveloperBackEnd #CSharp #ASPNETCore #developerWeb
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9A-6w3A_GRs5rp8ct_1OlA)
+[![Skill](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
+[![Skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
 

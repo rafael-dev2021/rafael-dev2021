@@ -1,5 +1,5 @@
 
-👋 Olá, sou [RAFAEL]!
+👋 Olá, sou RAFAEL!
 
 I'm a back-end developer with a passion for programming and creating robust systems. My main specialization is in C# and ASP.NET Core, and I'm always looking for ways to improve my web development skills.
 

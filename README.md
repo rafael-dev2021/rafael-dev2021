@@ -8,6 +8,7 @@
 Sou um desenvolvedor back-end com paixão por programação e criação de sistemas robustos. Minha principal especialização é em C# e ASP.NET Core, e estou sempre procurando maneiras de melhorar minhas habilidades de desenvolvimento web.
 
 🚀Experiência:
+
 - Desenvolvimento web com foco no ASP.NET Core.
 - Criação de APIs RESTful eficientes e escaláveis.
 - Optimizar as consultas SQL para melhorar o desempenho das aplicações.
@@ -26,6 +27,7 @@ Se você também é apaixonado por desenvolvimento web, C# ou ASP.NET Core, eu a
 I am a back-end developer with a passion for programming and building robust systems. My major is in C# and ASP.NET Core, and I’m always looking for ways to improve my web development skills.
 
 🚀Experience:
+
 - Web development with a focus on ASP.NET Core.
 - Creating efficient and scalable RESTful APIs.
 - Optimizing SQL queries to improve application performance.

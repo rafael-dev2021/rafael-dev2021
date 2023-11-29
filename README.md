@@ -22,6 +22,8 @@ I'm a back-end developer with a passion for programming and creating robust syst
 
 Se você também é apaixonado por desenvolvimento web, C# ou ASP.NET Core, eu adoraria trocar ideias e aprender com você. Vamos nos conectar aqui no GitHub e expandir nossos horizontes juntos!
 
+<hr/>
+I am a back-end developer with a passion for programming and building robust systems. My major is in C# and ASP.NET Core, and I’m always looking for ways to improve my web development skills.
 
 🚀Experience:
 - Web development with a focus on ASP.NET Core.

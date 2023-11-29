@@ -24,6 +24,7 @@ Se você também é apaixonado por desenvolvimento web, C# ou ASP.NET Core, eu a
 
 <hr/>
 I am a back-end developer with a passion for programming and building robust systems. My major is in C# and ASP.NET Core, and I’m always looking for ways to improve my web development skills.
+<br/>
 🚀Experience:
 
 - Web development with a focus on ASP.NET Core.

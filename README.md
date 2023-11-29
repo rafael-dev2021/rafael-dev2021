@@ -25,6 +25,7 @@ If you're also passionate about web development, C# or ASP.NET Core, I'd love to
 #DeveloperBackEnd #CSharp #ASPNETCore #developerWeb
 
 💻 Technologies I use in my day.
+<br />
 ![Skill](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

@@ -12,7 +12,7 @@ Sou um desenvolvedor back-end com paixão por programação e criação de siste
 - Desenvolvimento web com foco no ASP.NET Core.
 - Criação de APIs RESTful eficientes e escaláveis.
 - Optimizar as consultas SQL para melhorar o desempenho das aplicações.
-- Colaborar em equipas ágeis para criar soluções de software de alta qualidade.
+- Colaborar em equipes ágeis para criar soluções de software de alta qualidade.
 
 
 💼 Atualmente estou trabalhando como desenvolvedor de back-end freelancer, onde tenho a oportunidade de aplicar minhas habilidades em C# e ASP.NET Core para criar sistemas sólidos que atendam às necessidades dos clientes.
@@ -25,7 +25,7 @@ Se você também é apaixonado por desenvolvimento web, C# ou ASP.NET Core, eu a
 
 <hr/>
 I am a back-end developer with a passion for programming and building robust systems. My major is in C# and ASP.NET Core, and I’m always looking for ways to improve my web development skills.
-
+<br />
 🚀Experience:
 
 - Web development with a focus on ASP.NET Core.

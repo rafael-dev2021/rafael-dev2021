@@ -11,16 +11,12 @@ Sou um desenvolvedor back-end com paixão por programação e criação de siste
 
 - Desenvolvimento web com foco no ASP.NET Core.
 - Criação de APIs RESTful eficientes e escaláveis.
-- Optimizar as consultas SQL para melhorar o desempenho das aplicações.
-- Colaborar em equipes ágeis para criar soluções de software de alta qualidade.
 
 💼 Atualmente estou trabalhando como desenvolvedor de back-end freelancer, onde tenho a oportunidade de aplicar minhas habilidades em C# e ASP.NET Core para criar sistemas sólidos que atendam às necessidades dos clientes.
 
-
-
 🌱 Estou sempre aprendendo e me mantendo atualizado com as últimas tendências em desenvolvimento web, a fim de oferecer as melhores soluções para os projetos em que trabalho.
 
-Se você também é apaixonado por desenvolvimento web, C# ou ASP.NET Core, eu adoraria trocar ideias e aprender com você. Vamos nos conectar aqui no GitHub e expandir nossos horizontes juntos!
+Se você também é apaixonado por desenvolvimento web, C# ou .NET, eu adoraria trocar ideias e aprender com você. Vamos nos conectar aqui no GitHub e expandir nossos horizontes juntos!
 
 <hr/>
 I am a back-end developer with a passion for programming and building robust systems. My major is in C# and ASP.NET Core, and I’m always looking for ways to improve my web development skills.
@@ -29,10 +25,8 @@ I am a back-end developer with a passion for programming and building robust sys
 
 - Web development with a focus on ASP.NET Core.
 - Creating efficient and scalable RESTful APIs.
-- Optimizing SQL queries to improve application performance.
-- Collaborating in agile teams to create high-quality software solutions.
-
-💼 I'm currently working as a freelancer back-end developer, where I have the opportunity to apply my skills in C# and ASP.NET Core to create solid systems that meet clients' needs.
+- 
+💼 I'm currently working as a freelancer back-end developer, where I have the opportunity to apply my skills in C# and .NET to create solid systems that meet clients needs.
 
 🌱 I'm always learning and keeping up to date with the latest trends in web development in order to offer the best solutions for the projects I work on.
 

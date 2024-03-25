@@ -25,7 +25,7 @@ I am a back-end developer with a passion for programming and building robust sys
 
 - Web development with a focus on ASP.NET Core.
 - Creating efficient and scalable RESTful APIs.
-- 
+  
 💼 I'm currently working as a freelancer back-end developer, where I have the opportunity to apply my skills in C# and .NET to create solid systems that meet clients needs.
 
 🌱 I'm always learning and keeping up to date with the latest trends in web development in order to offer the best solutions for the projects I work on.

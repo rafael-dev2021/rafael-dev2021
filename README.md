@@ -4,7 +4,8 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9A-6w3A_GRs5rp8ct_1OlA)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-a79314207/)
-![](https://komarev.com/ghpvc/?username=https://github.com/rafael-dev2021/rafael-dev2021&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rafael-dev2021&label=PROFILE+VIEWS)
+
 
 ### 👨‍💻 Desenvolvedor back-end apaixonado pela criação de sistemas robustos. Especialista em C# e .NET, com experiência em:
 
